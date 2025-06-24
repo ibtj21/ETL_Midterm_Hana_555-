@@ -150,20 +150,20 @@ All loaded files will be saved in the `loaded/` directory:
 ### Preview of Loaded Data
 
 #### Full Data
-![Preview of Full Data](Screenshots/Preview_of_loaded_full_data.jpg)
+![Preview of Full Data](Screenshoots/Preview_of_loaded_full_data.jpg)
 
 #### Incremental Data
-![Preview of Incremental Data](Screenshots/preview_of_loaded_incremental_data.jpg)
+![Preview of Incremental Data](Screenshoots/preview_of_loaded_incremental_data.jpg)
 
 ---
 
 ### Total Sales by Region
 
 #### Full Data Chart
-![Total Sales Full Data](Screenshots/Total_sales_by_region_full_data.jpg)
+![Total Sales Full Data](Screenshoots/Total_sales_by_region_full_data.jpg)
 
 #### Incremental Data Chart
-![Total Sales Incremental Data](Screenshots/Total_sales_by_region_Incremental_data.jpg)
+![Total Sales Incremental Data](Screenshoots/Total_sales_by_region_Incremental_data.jpg)
 
 
 
