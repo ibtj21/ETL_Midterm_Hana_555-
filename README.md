@@ -1,7 +1,19 @@
 # ETL_Midterm_Hana_555-
 This repository contains my mid-semester project for the Data Warehousing course, focusing on the ETL (Extract, Transform, Load) process
+---
 
-## 📦 Project Overview 
+## Table of Contents
+- [1.Project_Overview](#Project_Overview)  
+- [ETL_Phases](#ETL_Phases )  
+- [Tools Used](#tools-used)  
+- [Repository Contents](#repository-contents)  
+- [Notebook Description](#notebook-description)  
+- [Output Screenshots](#output-screenshots)  
+- [How to Reproduce](#how-to-reproduce)   
+- [License](#license)  
+
+---
+## Project_Overview 
 
 This ETL (Extract, Transform, Load) lab demonstrates the complete process of preparing retail data for analysis. The lab walks through:
 
@@ -11,7 +23,7 @@ This ETL (Extract, Transform, Load) lab demonstrates the complete process of pre
 
 The primary goal is to practice essential ETL techniques, and to produce clean, structured data suitable for further analysis or reporting.
 
-## 🔄 ETL Phases 
+## 2. ETL_Phases 
 
 This project is divided into three ETL phases, each handled in a separate Jupyter Notebook:
 
@@ -48,7 +60,7 @@ This project is divided into three ETL phases, each handled in a separate Jupyte
 
 ---
 
-### 📦 3. `etl_load.ipynb` – Data Loading
+### 3. `etl_load.ipynb` – Data Loading
 
 **Purpose:** Save the final transformed datasets in a queryable and efficient format.
 
@@ -77,7 +89,7 @@ The following tools and technologies were used throughout the ETL process:
 | **Parquet**          | Efficient columnar file format for storing transformed data  |
 | **CSV**              | Original format of raw and incremental data files            |
 
-## 🚀 4. How to Run the Project – Step-by-step Instructions
+##  4. How to Run the Project – Step-by-step Instructions
 
 ### 📁 Prerequisites
 
@@ -130,7 +142,7 @@ pip install pandas matplotlib seaborn pyarrow
      ```
 ---
 
-### 📦 Output Files
+###  Output Files
 
 All transformed  files will be saved in the `transformed/` directory:
 * `transformed_full.csv`
