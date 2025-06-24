@@ -173,11 +173,29 @@ All loaded files will be saved in the `loaded/` directory:
 ### Full Data Chart
 ![Total Sales Full Data](Screenshoots/Total_sales_by_region_full_data.jpg)
 
-### *Interpretation*
+### 📈 Insight: Total Sales by Region
+
+🥇 **South** region had the highest total sales, indicating it may be the most profitable or has the most customer activity.  
+🥈 **West** region followed as the second-highest contributor in total sales.  
+🥉 **North** region came in third, suggesting moderate sales performance.  
+🧭 **East** region recorded the lowest total sales, indicating either lower demand, fewer transactions, or potential for growth.
+
+🔎 **This distribution could inform strategic decisions such as:**
+
+- Increasing marketing efforts in the **East**.
+- Creating additional branch locations in the **South**.
+- Investigating why the **South** performs better—product mix, customer base, etc.
+
 
 ### Incremental Data Chart
 ![Total Sales Incremental Data](Screenshoots/Total_sales_by_region_Incremental_data.jpg)
 
-### *Interpretation*
+### 📊 Insight: Total Sales by Region of Transformed Incremental Data
+
+🏆 In the incremental data, only the **Central** and **Northern** regions were present.  
+💰 The **Central** region had significantly higher total sales — **above 8000**.  
+🌬 The **Northern** region had much lower sales — **less than 2000**.  
+🔍 This indicates a strong concentration of high-value transactions in the **Central** region, suggesting a possible business focus or higher purchasing activity there.
+
 
 
