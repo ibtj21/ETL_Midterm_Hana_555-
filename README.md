@@ -145,23 +145,5 @@ All loaded files will be saved in the `loaded/` directory:
 
 ✅ The ETL pipeline is now ready for downstream analytics or dashboard development!
 
-## 🖼️ 5. Screenshot of Data and Chart
 
-### 📋 Preview of Loaded Data
-
-#### ✅ Full Data
-![Preview of Full Data](Screenshoots\ of\ Data\ and\ Charts/Preview_of_loaded_full_data.jpg)
-
-#### 📥 Incremental Data
-![Preview of Incremental Data](Screenshoots\ of\ Data\ and\ Charts/preview_of_loaded_incremental_data.jpg)
-
----
-
-### 📊 Total Sales by Region
-
-#### 📈 Full Data Chart
-![Total Sales Full Data](Screenshoots\ of\ Data\ and\ Charts/Total_sales_by_region_full_data.jpg)
-
-#### 🆕 Incremental Data Chart
-![Total Sales Incremental Data](Screenshoots\ of\ Data\ and\ Charts/Total_sales_by_region_Incremental_data.jpg)
 
