@@ -3,11 +3,11 @@ This repository contains my mid-semester project for the Data Warehousing course
 ---
 
 ## Table of Contents
-- [Project_Overview](#1.Project_Overview)  
-- [ETL_Phases](#2.ETL_Phases )  
-- [Tools_Used](#3.Tools_Used)  
-- [How_to_Run_the_Project_Step-by-step Instructions](#4.How_to_Run_the_Project_Step_by_step_Instructions)  
-- [Screenshoots_of_Data_and_Chart](#5.Screenshoots_of_Data_and_Chart)   
+- [1.Project_Overview](#1.Project_Overview)  
+- [2.ETL_Phases](#2.ETL_Phases )  
+- [3.Tools_Used](#3.Tools_Used)  
+- [4.How_to_Run_the_Project_Step-by-step Instructions](#4.How_to_Run_the_Project_Step_by_step_Instructions)  
+- [5.Screenshoots_of_Data_and_Chart](#5.Screenshoots_of_Data_and_Chart)   
 ---
 ## 1.Project_Overview 
 
