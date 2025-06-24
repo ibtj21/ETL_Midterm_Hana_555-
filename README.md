@@ -3,17 +3,13 @@ This repository contains my mid-semester project for the Data Warehousing course
 ---
 
 ## Table of Contents
-- [1.Project_Overview](#Project_Overview)  
-- [ETL_Phases](#ETL_Phases )  
-- [Tools Used](#tools-used)  
-- [Repository Contents](#repository-contents)  
-- [Notebook Description](#notebook-description)  
-- [Output Screenshots](#output-screenshots)  
-- [How to Reproduce](#how-to-reproduce)   
-- [License](#license)  
-
+- [Project_Overview](#1.Project_Overview)  
+- [ETL_Phases](#2.ETL_Phases )  
+- [Tools_Used](#3.Tools_Used)  
+- [How_to_Run_the_Project_Step-by-step Instructions](#4.How_to_Run_the_Project_Step_by_step_Instructions)  
+- [Screenshoots_of_Data_and_Chart](#5.Screenshoots_of_Data_and_Chart)   
 ---
-## Project_Overview 
+## 1.Project_Overview 
 
 This ETL (Extract, Transform, Load) lab demonstrates the complete process of preparing retail data for analysis. The lab walks through:
 
@@ -75,7 +71,7 @@ This project is divided into three ETL phases, each handled in a separate Jupyte
 
 Together, these notebooks demonstrate a full ETL pipeline applied to retail transaction data.
 
-## 🛠️ 3. Tools Used
+## 🛠️ 3.Tools_Used
 
 The following tools and technologies were used throughout the ETL process:
 
@@ -89,7 +85,7 @@ The following tools and technologies were used throughout the ETL process:
 | **Parquet**          | Efficient columnar file format for storing transformed data  |
 | **CSV**              | Original format of raw and incremental data files            |
 
-##  4. How to Run the Project – Step-by-step Instructions
+##  4.How_to_Run_the_Project_Step-by-step Instructions
 
 ### 📁 Prerequisites
 
@@ -157,25 +153,31 @@ All loaded files will be saved in the `loaded/` directory:
 
 ✅ The ETL pipeline is now ready for downstream analytics or dashboard development!
 
-## 5. Screenshot of Data and Chart
+## 5.Screenshoots_of_Data_and_Chart
 
-### Preview of Loaded Data
+### **Preview of Loaded Data**
 
-#### Full Data
+### Full Data
 ![Preview of Full Data](Screenshoots/Preview_of_loaded_full_data.jpg)
 
-#### Incremental Data
+### Incremental Data
 ![Preview of Incremental Data](Screenshoots/preview_of_loaded_incremental_data.jpg)
 
 ---
 
-### Total Sales by Region
+### **Visualization:Total Sales by Region**
 
-#### Full Data Chart
+- All visualizations were generated in the `Visualizations.ipynb` notebook.
+- The main focus was to explore and compare **total sales by region** for both the full and incremental datasets.
+  
+### Full Data Chart
 ![Total Sales Full Data](Screenshoots/Total_sales_by_region_full_data.jpg)
 
-#### Incremental Data Chart
+### *Interpretation*
+
+### Incremental Data Chart
 ![Total Sales Incremental Data](Screenshoots/Total_sales_by_region_Incremental_data.jpg)
 
+### *Interpretation*
 
 
